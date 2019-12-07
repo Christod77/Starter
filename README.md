@@ -1,2 +1,3 @@
 # Hello-world
-Learning Git
+
+Hello my name is Chris and I suck at programming
